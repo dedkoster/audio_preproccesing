@@ -1,6 +1,6 @@
 """Utilities for real-time audio data augmentation.
 URL:
-- https://github.com/keras-team/keras-preprocessing/blob/master/keras_preprocessing/image.py
+- https://github.com/keras-team/keras/blob/master/keras/preprocessing/image.py
 """
 
 import os
